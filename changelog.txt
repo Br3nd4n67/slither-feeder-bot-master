@@ -1,0 +1,46 @@
+#5.27.2016
+--- Feeder 
+    + Bots Name
+	+ Random Skin
+    + Little code edit
+	
+--- Server
+    - Delete socket.on('off') <-- idk why i add this xD
+	- Little code edit
+
+--  User script
+    + Add Skin change 
+	+ Add Bots name 
+
+#5.27.2016
+--- Feeder
+   + Random names
+   + Random skin
+
+--- User script
+   + Random names
+   + Random skin
+   
+#5.27.2016
+--- User script
+   + Gui for bots name/random skin (sorry for bad gui im bad in css)
+   
+--- Server/User script/Feeder
+   + Purified code + beautification code
+   
+FROM: # #5.27.2016
+
+--- XX Times edit feeder
+
+-- XX Times edit userscript
+
+TO:  #6.13.2016
+--- Feeder Fix ( 0 bots in console )
+
+--- Bot start when u click Play button
+
+Next: 
+
+--- User skink changer ( rotator / hack ) 
+
+--- Show FPS In left bots menu 
